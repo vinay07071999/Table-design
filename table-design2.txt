@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .outer-table{
+            font-family: Arial;
+            background-color: lightgrey;
+        }
+        td{
+            background-color: white;
+        }
+    </style>
+</head>
+<body>
+    <table class="outer-table" border="1" width="100%" frame="void" cellpadding="4" cellspacing="20" height="300">
+        <tr>
+            <td>
+                <table align="center">
+                    <tr>
+                      <td colspan="2"><h2>Up to 70% off | Styles for Women<h2></h2></td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <img src="images folder/Women's clothing.png" width="100" height="100">
+                            <p>Women's clothing</p>
+                        </td>
+                        <td>
+                            <img src="images folder/Footwear+handbags.png" width="100" height="100">
+                            <p>Footwear+handbags</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <img src="images folder/watches.png" width="100" height="100">
+                            <p>Watches</p>
+                        </td>
+                        <td>
+                            <img src="images folder/Fashion jewellery.png" width="100" height="100">
+                            <p>Fashion jewellery</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">More Details</td>
+                    </tr>
+                </table>
+            </td>
+            <td>
+                <table align="center">
+                    <tr>
+                      <td colspan="2"><h2>Up to 70% off | Styles for Women<h2></h2></td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <img src="images folder/Women's clothing.png" width="100" height="100">
+                            <p>Women's clothing</p>
+                        </td>
+                        <td>
+                            <img src="images folder/Footwear+handbags.png" width="100" height="100">
+                            <p>Footwear+handbags</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <img src="images folder/watches.png" width="100" height="100">
+                            <p>Watches</p>
+                        </td>
+                        <td>
+                            <img src="images folder/Fashion jewellery.png" width="100" height="100">
+                            <p>Fashion jewellery</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">More Details</td>
+                    </tr>
+                </table>
+            </td>
+            <td>
+                <table align="center">
+                    <tr>
+                      <td colspan="2"><h2>Up to 70% off | Styles for Women<h2></h2></td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <img src="images folder/Women's clothing.png" width="100" height="100">
+                            <p>Women's clothing</p>
+                        </td>
+                        <td>
+                            <img src="images folder/Footwear+handbags.png" width="100" height="100">
+                            <p>Footwear+handbags</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <img src="images folder/watches.png" width="100" height="100">
+                            <p>Watches</p>
+                        </td>
+                        <td>
+                            <img src="images folder/Fashion jewellery.png" width="100" height="100">
+                            <p>Fashion jewellery</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">More Details</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <img src="mobile images/row-banner.png" width="100%">
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
